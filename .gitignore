@@ -1,0 +1,8 @@
+# Installers, shortcuts, and temporary download artifacts
+*.exe
+*.lnk
+*.ashx
+
+# Files exceeding GitHub's 100 MB file size limit
+SECOND YEAR/Semester 3/Electronic Device and Circuit/Unit 1/EDC NOTES.pdf
+THIRD YEAR/SEMESTER VI/Digital Signal Processing/Digital Signal Processing  by J.S. Katre (Tech Max) (3) (2).pdf
